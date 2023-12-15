@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="figure_shop:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/figure_shop_Web</output-path>
+    <root id="archive" name="figure_shop_Web.war">
+      <element id="artifact" artifact-name="figure_shop:Web exploded" />
+    </root>
+  </artifact>
+</component>
