@@ -15,11 +15,11 @@
   
     -dao：存储的java类都是与数据库进行交互的类
     -filter：包中存储过滤器类，用户统一全站编码
-    -listner：包中存储一个Listener类，用于监听并获取所有商品分类
+    -listener：包中存储一个Listener类，用于监听并获取所有商品分类
     -model：包中存储java实体类
     -service：包中存储项目用到的Servlet类重载的service()方法
     -servlet:包中存储着网站用到的实现各种功能的Servlet类
-    -utils：包中存储着项目遇到的工具类
+    -utils：包中存储着项目用到的工具类
     
   -web
 
